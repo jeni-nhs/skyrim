@@ -1,0 +1,1 @@
+print('Khajit has no words for you')
